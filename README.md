@@ -48,6 +48,8 @@ I'm not a career engineer. I'm someone who spent years automating classrooms and
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thanh01pmt)](https://git.io/streak-stats)
+
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=thanh01pmt&show_icons=true&locale=en&layout=compact"/>
 </p>
