@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tony Pham</h1>
-<h3 align="center">Building systems where education and AI meet</h3>
+<h1 align="center">Tony Pham</h1>
+<h3 align="center">Spent 9 years teaching people how to build things.<br/>Now I build the systems that do the teaching.</h3>
 
 <p align="center">
   <a href="mailto:thanh01.pmt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -7,24 +7,29 @@
   <a href="https://tonypham-porfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
-### 👨‍💻 About me
+---
 
-- 🧑‍🏫 9 years in tech education — went from teaching STEM/coding, to leading a department, to managing academic programs at scale
-- 🔧 3-4 years automating real workflows with **n8n**, shipping small AI-powered tools long before "agentic" was a buzzword
-- 🚀 Currently building **[Orchable](https://github.com/thanh01pmt)** — an AI-driven EdTech platform, solo, from the ground up
-- 🌱 Deep in the AI stack right now — orchestration, multi-agent pipelines, and what actually makes them useful for learning (not just impressive in a demo)
-- 🛠️ I'd rather build the system that teaches 1,000 people once than explain the same thing to one person twice — that's the automation instinct
-- 📝 I write occasionally about how tools actually work under the hood, not just how to use them
+### 📖 The short version
 
-### 🚀 Featured project
+I started as a STEM teacher, ended up running academic programs for a tech-education company — nine years of watching what actually helps someone learn, and what's just noise. In June 2026 I left that job to find out if I could build the same thing in software: **[Orchable](https://github.com/thanh01pmt)**, a platform that generates real, personalized learning paths instead of another static course catalog.
+
+I'm not a career engineer. I'm someone who spent years automating classrooms and admin work with **n8n** before "agentic workflows" was a term anyone used — and eventually realized the tool I kept reaching for should be the product.
+
+### 🧭 How I actually work
+
+- 🔩 I default to building the *system* that solves a problem for everyone, not the one-off fix that solves it for one person today
+- 🎯 I'd rather ship something that quietly works than demo something that impressively doesn't — which means I spend a lot of time in the unglamorous last mile before something goes public
+- 🧪 Most of what I know about AI orchestration, I learned by breaking my own n8n workflows first
+- 🗣️ I think in writing before I think out loud — most of what I share (this profile included) is written, not spoken
+- 🌱 Currently deep in multi-agent pipelines: how to make several AI steps hand off work to each other reliably, not just chain prompts
+
+### 🚀 What I'm building
 
 <table>
   <tr>
-    <td align="center" width="100%">
-      <a href="https://github.com/thanh01pmt/knowledge-tree">
-        <b>🌳 knowledge-tree</b>
-      </a><br/>
-      <sub>Mapping how tools and skills connect, so learning paths make sense from day one</sub><br/><br/>
+    <td width="100%">
+      <b>🌳 <a href="https://github.com/thanh01pmt/knowledge-tree">knowledge-tree</a></b><br/>
+      <sub>An attempt to map how tools and skills actually connect — so a learning path isn't a random list, it's a graph that makes sense from day one. The seed of the thinking behind Orchable.</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/thanh01pmt/knowledge-tree?style=social"/>
     </td>
   </tr>
