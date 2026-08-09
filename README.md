@@ -49,9 +49,9 @@ I'm not a career engineer. I'm someone who spent years automating classrooms and
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thanh01pmt"/>
+  <img src="https://streak-stats.demolab.com/?user=thanh01pmt&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=thanh01pmt&show_icons=true&locale=en&layout=compact"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=thanh01pmt&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </p>
